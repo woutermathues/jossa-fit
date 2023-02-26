@@ -1,0 +1,8 @@
+{
+  "name": "JossaFit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f5f15839"
+}

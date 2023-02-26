@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "JossaFit",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
